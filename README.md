@@ -8,7 +8,7 @@ The **Create Course Plugin** is a WordPress plugin designed to streamline the cr
 
 For a quick demonstration of the plugin in action, check out this video:
 
-[<img src="https://img.youtube.com/vi/your_video_id/0.jpg">](https://youtu.be/your_video_id)
+[<img src="https://img.youtube.com/vi/djIglDOujIo/0.jpg">](https://www.youtube.com/watch?v=djIglDOujIo)
 
 ## Features
 
@@ -48,7 +48,7 @@ For a quick demonstration of the plugin in action, check out this video:
 
 ### 1. Course Creation Form
 
-![(https://github.com/sanjoydas123/wordpress-course-create/blob/main/Screenshot%20course%20create.png)](#)
+[Screenshot of the Create Course form in the admin dashboard.](https://github.com/sanjoydas123/wordpress-course-create/blob/main/Screenshot%20course%20create.png)
 
 ## Support
 
