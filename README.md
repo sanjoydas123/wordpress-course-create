@@ -48,7 +48,7 @@ For a quick demonstration of the plugin in action, check out this video:
 
 ### 1. Course Creation Form
 
-<img src="https://github.com/sanjoydas123/wordpress-course-create/blob/main/Screenshot%20course%20create.png">
+![Screenshot of the Create Course form](https://raw.githubusercontent.com/sanjoydas123/wordpress-course-create/main/Screenshot%20course%20create.png)
 
 ## Support
 
